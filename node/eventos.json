@@ -1,0 +1,4 @@
+{"_id":"Entrega de tarea01","title":"Entrega de tarea","start":"2018-02-02","end":"Invalid da","start_hour":"2018-02-02","end_hour":"e","fk_usuario":"gabioh2012@gmail.com"}
+{"_id":"EntregaDeTarea10","start":"2018-02-02","end":"2018-02-02","end_hour":"10:00:00","start_hour":"11:00:00","allDay":1.0,"title":"EntrefaDeTrarea"}
+{"_id":"Graduaciion next u01","title":"Graduaciion next u","start":"2018-02-05","end":"2018-02-06","start_hour":"2018-02-05","end_hour":"07:30:00","fk_usuario":"gabioh2012@gmail.com"}
+{"_id":"a la hora01","title":"a la hora","start":"2018-02-24","end":"","start_hour":null,"end_hour":null,"fk_usuario":"gabioh2012@gmail.com"}

@@ -1,0 +1,4 @@
+LA BASE DE DATOS SE LLAMA agendaGP 
+collecions estan en formato .json 
+el datos de acceso de correo y contraseña estan en el archivo usuarios.json
+
