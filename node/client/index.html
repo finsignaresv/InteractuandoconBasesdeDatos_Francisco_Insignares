@@ -22,19 +22,27 @@
     <script>
         var nombreUsuario = $('#user')
         var pass = $('#pass')
-        $('.loginButton').on('click', function(event) {
-            if (nombreUsuario.val() != "" && pass.val() != "") {
-                $.post('/login',{user: nombreUsuario.val(), pass: pass.val()}, function(response) {
-                    if (response == "Validado") {
+        $('.loginButton').on('click', function(event)
+          {
+            if (nombreUsuario.val() != "" && pass.val() != "")
+              {
+                $.post('/login',{user: nombreUsuario.val(), pass: pass.val()}, function(response)
+                  {
+                    if (response == "Validado")
+                      {
                         window.location.href = "http://localhost:3000/main.html"
-                    }else{
-                        alert(response);
-                    }
-                })
-            } else {
-                alert("Complete todos los campos")
-            }
-        })
+                      }
+                      else
+                        {
+                          alert(response);
+                        }
+                  })
+              }
+              else
+                {
+                  alert("Complete todos los campos")
+                }
+          })
     </script>
   </body>
 </html>

@@ -1,4 +1,5 @@
-LA BASE DE DATOS SE LLAMA agendaGP 
-collecions estan en formato .json 
-el datos de acceso de correo y contraseña estan en el archivo usuarios.json
-
+La base de datos se llama "nuevaDB"
+Para crear el usuario "newuser" desde consola en la base de datos nuevaDB debe correr el comando mongo server/createUser
+El password para el acceso a la Agenda de este usuario es "12345", es informacion esta igualmente en el archivo usuarios.json
+Las Colleciones estan en formato .json 
+Un grupo de eventos para este usuario se han dejado igualmente en el archivo eventos.json
