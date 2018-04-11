@@ -1,0 +1,22 @@
+INFORMACION PARA LA CREACION DE LA BASE DE DATOS
+Para crear la base de datos ejecute el archivo SQL que aparece en la raiz del proyecto llamada create_database.sql, el cual se creo con la ayuda de workbench. 
+Asi mismo, en esta misma carpeta se coloco el archivo del modelo desarrollado en workbench.
+Una vez creada la base de datos se creo en phpmyadmin un usuario llamado "newuser" (sin comillas), al cual se le dio permiso para realizar las funciones basicas
+dentro de la base de datos, llamada "agenda" (sin comillas). El password para el acceso del usuario "newuser" es "12345" (sin comillas).
+
+CREACION DE USUARIOS
+Los usuarios utilizados para el desarrollo del ejercicio son:
+
+-PRIMER USUARIO
+username: usuario1@mail.com
+password: 12345
+
+-SEGUNDO USUARIO
+username: usuario2@mail.com
+password: 12345
+
+-TERCER USUARIO
+username: usuario3@mail.com
+password: 12345
+
+MAS INFORMACION DISPONIBLE EN EL ARCHIVO JSON ADJUNTO.
